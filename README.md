@@ -1,18 +1,15 @@
 # ello, im mice.
 
 ## What languages do you use?
-- I mainly use Python and Rust, with a somewhat decent 
-knowledge of JS. I also make graphics in VizRT, and use
-XML for that.
+- I mainly use Python and Rust, with some basic knowledge in JS. 
+I also make graphics in Viz Artist, and use
+XML for that. (Fun fact, XML is my preferred data config format!)
 
 ## Where do you lurk?
 - I am the Owner of MCE Development, and I am a member
 of Mist Weather Media's creative team.
 
 ## Where can I talk to you?
-- I am known as miceoroni across some platforms, you can just
-search miceoroni on your perferred social media and it
-should come up (except for Snapchat and Facebook, i dont plan
-on using those, and i dont have them)
+- You can contact me on discord at @miceoroni, my dm's are open for any questions you might have!
 
 Thats all, stay fresh! :herb:
