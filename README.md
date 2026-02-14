@@ -1,7 +1,7 @@
 # ello, im mice.
 
 ## What languages do you use?
-- I mainly use Python and Rust, with some basic knowledge in JS. 
+- I mainly use Python, with some basic knowledge in JS. 
 I also make graphics in Viz Artist, and use
 XML for that. (Fun fact, XML is my preferred data config format!)
 
@@ -13,3 +13,4 @@ of Mist Weather Media's creative team.
 - You can contact me on discord at @miceoroni, my dm's are open for any questions you might have!
 
 Thats all, stay fresh! :herb:
+
