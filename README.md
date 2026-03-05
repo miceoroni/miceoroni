@@ -7,7 +7,7 @@ XML for that.
 
 ## Where do you lurk?
 - I am the Owner of MCE Development, and I am a member
-of Mist Weather Media's creative team.
+of Mist Weather Media's development team.
 
 ## Where can I talk to you?
 - You can contact me on discord at @miceoroni, my dm's are open for any questions you might have!
