@@ -1,7 +1,8 @@
 # ello, im mice.
 
 ## What languages do you use?
-- I mainly use Python, with some basic knowledge in JS. 
+- I mainly use Python, with some basic knowledge in JS. I'm also learning
+  C# and Java. 
 I also make graphics in Viz Artist, and use
 XML for that.
 
